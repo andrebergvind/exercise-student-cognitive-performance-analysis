@@ -1,14 +1,17 @@
 # Exercise and Student Cognitive Performance
 
 ## Project Overview
-This project is derived from my dissertation and investigates whether physical exercise influences students' perceived cognitive functioning and short-term academic productivity. The purpose of this study was to better understand this relationship and provide practical recommendations for students to optimize their exercise habits in order to enhance academic performance.
-The research was initially inspired by my own experiences, where I observed increased cognitive functioning, motivation, and productivity levels immediately following exercise.
 
-This study primarily applies descriptive analysis to summarize participant responses, complemented by exploratory data analysis to identify patterns and relationships between exercise and perceived academic productivity.
+A life science and human performance research study, conducted for my capstone dissertation project.
+
+The study investigates whether exercising influences students' perceived cognitive functioning and short-term academic productivity. 
+Its purpose was to contribute to a deeper understanding of the relationship between physical activity and academic performance, while also providing practical recommendations that may help students optimize their exercise routines to support optimal productivity in connection with academic tasks and studies.
+Inspiration for the research originated from personal observations of increased cognitive functioning, motivation, and productivity immediately following exercise.
+
+The analysis primarily applies descriptive methods to summarize participant responses, complemented by exploratory data analysis to identify patterns and relationships between exercise and perceived academic productivity.
 
 ## Hypothesis
-The study hypothesised that exercise has an immediate positive effect on one’s cognitive
-behaviour and direct ability to achieve increased academic productivity.
+The study hypothesised that exercise has an immediate positive effect on one’s cognitive behaviour and direct ability to achieve increased academic productivity.
 
 ## Research Questions
 - Does exercise frequency influence productivity?
