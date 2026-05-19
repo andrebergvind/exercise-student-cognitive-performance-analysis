@@ -4,11 +4,14 @@
 
 A life science and human performance research study, conducted for my capstone dissertation project.
 
-The study investigates whether exercising influences students' perceived cognitive functioning and short-term academic productivity. 
+The study investigated whether exercising influences students' perceived cognitive functioning and short-term academic productivity. 
 Its purpose was to contribute to a deeper understanding of the relationship between physical activity and academic performance, while also providing practical recommendations that may help students optimize their exercise routines to support optimal productivity in connection with academic tasks and studies.
-Inspiration for the research originated from personal observations of increased cognitive functioning, motivation, and productivity immediately following exercise.
 
-The analysis primarily applies descriptive methods to summarize participant responses, complemented by exploratory data analysis to identify patterns and relationships between exercise and perceived academic productivity.
+The research applied a mixed methods approach, combining both quantitative and qualitative data collected through surveys and interviews. This provided measurable insights into behavioral patterns and perceived productivity outcomes, while also enabling a deeper understanding of individual experiences, perceptions, and attitudes toward exercise and academic performance.
+
+Inspiration for the study originated from personal observations of increased cognitive functioning, motivation, and productivity immediately following exercise.
+
+
 
 ## Hypothesis
 The study hypothesised that exercise has an immediate positive effect on one’s cognitive behaviour and direct ability to achieve increased academic productivity.
@@ -64,8 +67,8 @@ The preparation process included:
 These steps ensured that the dataset could be properly analysed and visualized in Tableau.
 
 ## Methodology
-The analysis was conducted using descriptive statistics and exploratory data analysis (EDA), supported by interactive visualizations developed in Tableau.
-The methodological approach consisted of two main stages: descriptive analysis, and relationship exploration.
+
+The study applied descriptive methods to summarize participant responses, complemented by exploratory data analysis to identify patterns and relationships between exercise and various cognitive functions. 
 
 The first step involved summarizing the distribution of responses across all key variables to provide an overall understanding of participants’ perceptions.
 
