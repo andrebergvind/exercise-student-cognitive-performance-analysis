@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-A life science and human performance research study, conducted for my capstone dissertation project.
+A life science and human performance research study conducted as part of my capstone dissertation project at University.
 
 The study investigated whether exercising influences students' perceived cognitive functioning and short-term academic productivity. 
 Its purpose was to contribute to a deeper understanding of the relationship between physical activity and academic performance, while also providing practical recommendations that may help students optimize their exercise routines to support optimal productivity in connection with academic tasks and studies.
@@ -27,7 +27,10 @@ The study hypothesised that exercise has an immediate positive effect on one’s
 - Tableau
 
 ## Data Collection
-The dataset was collected through a survey targeting students aged 18-30. Respondents were presented with a series of statements regarding the cognitive effects they experience following physical exercise.
+
+***Quantitatve Data Collection***
+
+The dataset was collected through a Google Forms survey targeting students aged 18-30. Respondents were presented with a series of statements regarding the cognitive effects they experience following physical exercise.
 
 Participants evaluated each statement using a 5-point Likert scale:
 
@@ -52,7 +55,14 @@ In addition, respondents reported their typical:
 - exercise intensity
 - exercise type
 
-This quantitative survey formed part of a **mixed-methods research approach**, where quantitative results were complemented by a qualitative component exploring students' perceptions of exercise and academic performance.
+***Qualitative Data Collection***
+
+The qualitative component involved semi structured interviews with selected participants and was used to provide additional depth to the measurable data.
+It sought to explore underlying causes, further developing on the reasoning and challenges behind trends and patterns.
+
+The inverviews were conducted using Microsoft Teams and focused on identifying habits, routines, and behavioral factors that may influence cognitive functioning, motivation, and perceived productivity.
+
+In order to create the most natural and open discussion environment possible, the interviews did not strictly follow a fixed set of questions. Instead, they were designed to allow conversations to flow freely, enabling participants to elaborate on personal experiences and perspectives in greater detail.
 
 ## Data Preparation
 Data cleaning and preparation were performed in Google Sheets before importing the dataset into Tableau.
