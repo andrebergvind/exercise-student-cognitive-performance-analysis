@@ -64,10 +64,10 @@ The inverviews were conducted using Microsoft Teams and focused on identifying h
 
 In order to create the most natural and open discussion environment possible, the interviews did not strictly follow a fixed set of questions. Instead, they were designed to allow conversations to flow freely, enabling participants to elaborate on personal experiences and perspectives in greater detail.
 
-## Data Preparation
-Data cleaning and preparation were performed in Google Sheets before importing the dataset into Tableau.
+## Data Cleaning & Transformation
+Data cleaning and transformation were performed in Google Sheets before importing the dataset into Tableau.
 
-The preparation process included:
+The process included:
 
 - Cleaning and standardizing categorical variables 
 - Handling missing values and replacing undefined categories with appropriate labels
