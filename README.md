@@ -50,6 +50,7 @@ The study hypothesised that exercise has an immediate positive effect on one’s
 ## Tools Used
 - Google Forms
 - Google Sheets
+- Microsoft Teams
 - Tableau
 
 ## Data Collection
@@ -139,7 +140,7 @@ With the highest mean of 4.42, and median of 4.5, the mood score implies that ex
 The productivity score recorded a mean of 3.37, and a median of 3.5, making it one of the lowest average perceived factors following exercise. Generally, the majority of the population seemed to be neutral about its outcome after exercise. The standard deviation however, recorded 0.741, suggesting that opinions are divided regarding this matter.
 
 ### Motives score
-This recorded the lowest mean of 2.81, and median of 3, indicating that the majority did not agree with academic productivity being a reason for why they exercise. The standard deviation, however, show the highest variability of 0.996, suggesting that there is a strong disagreement in the population. The large variation tells us that the population perceive different motives for why they exercise, with some participants strongly agreeing, and other strongly disagreeing with the idea that their physical activities are driven by their academic productivity goals.
+With the lowest mean of 2.81, and median of 3, the motives score indicated that the majority did not agree with academic productivity being a reason for why they exercise. The standard deviation, however, showed the highest variability of 0.996, suggesting that there is a strong disagreement in the population. The large variation tells us that the population perceive different motives for why they exercise, with some participants strongly agreeing, and other strongly disagreeing with the idea that their physical activities are driven by their academic productivity goals.
 
 ### General Impact score
 The general impact score showcased the second most consistent values due to the lowest standard deviation recorded, 0.591. The mean of 4.01 and median of 4, indicates that the majority of the participants generally perceive exercise as having a positive impact on their cognitive behaviour, long term well-being, and overall academic achievements. 
@@ -153,13 +154,13 @@ The motives for exercise in relation to academical benefits, the motivation gain
 
 Following the descriptive overview, relationships between variables were explored to identify potential patterns.
 
-The dashboards below explore:
+**The dashboards below explore:**
 
 - Relationships between exercise behaviour and perceived productivity
 - Correlations between cognitive outcomes (energy, stress reduction, motivation) and productivity
 - Differences in productivity across exercise types, frequency levels, and intensity
   
-As the dataset is based on self-reported Likert-scale responses, the following analysis focused on observed associations rather than statistical inference.
+In contrast to the descriptive statistics, the visualisations were created to provide a comparison of exercise habits and perceived cognitive functions. Therefore, the following analysis focused on observed associations rather than statistical inference.
 
 
 ## Dashboards
