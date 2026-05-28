@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-A life science and human performance research study conducted as part of my capstone dissertation project at University.
+A life science and human performance research study conducted at University.
 
 The study investigated whether exercising influences students' perceived cognitive functioning and short-term academic productivity. 
 Its purpose was to contribute to a deeper understanding of the relationship between physical activity and academic performance, while also providing practical recommendations that may help students optimize their exercise routines to support optimal productivity in connection with academic tasks and studies.
@@ -10,6 +10,32 @@ Its purpose was to contribute to a deeper understanding of the relationship betw
 The research applied a mixed methods approach, combining both quantitative and qualitative data collected through surveys and interviews. This provided measurable insights into behavioral patterns and perceived productivity outcomes, while also enabling a deeper understanding of individual experiences, perceptions, and attitudes toward exercise and academic performance.
 
 Inspiration for the study originated from personal observations of increased cognitive functioning, motivation, and productivity immediately following exercise.
+
+## Project Structure
+
+[Hypothesis](#hypothesis)
+
+[Research Questions](#research-questions)
+
+[Tools Used](#tools-used)
+
+[Data Collection](#data-collection)
+
+[Data Cleaning & Transformation](#data-cleaning--transformation)
+
+[Methodology](#methodology)
+
+[Quantitative Analysis](#quantitative-analysis)
+
+[Dashboards](#dashboards)
+
+[Qualitative Analysis](#qualitative-analysis)
+
+[Key Insights](#key-insights)
+
+[Final Results](#final-results)
+
+[Recommendations](#recommendations)
 
 
 
@@ -89,7 +115,7 @@ This included:
 
 This step provided a baseline overview of how participants perceive the relationship between exercise and cognitive performance.
 
-## Quantitative Data Analysis
+## Quantitative Analysis
 
 ### Descriptive Statistics
 ![Dashboard](descriptive_statistics_exercise_and_academic_productivity_analysis.png)
@@ -149,7 +175,7 @@ As the dataset is based on self-reported Likert-scale responses, the following a
 
 The packaged Tableau workbook (.twbx) is also included in this repository.
 
-## Qualitative Data Analysis
+## Qualitative Analysis
 
 The qualitative component was based on five semi-structured interviews with students aged 18–30 who regularly engage in physical exercise, ranging from recreational to professional levels.
 
