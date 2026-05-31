@@ -1,4 +1,4 @@
-# Exercise and Student Cognitive Performance
+# Exercise & Student Cognitive Performance
 
 ## Project Overview
 
