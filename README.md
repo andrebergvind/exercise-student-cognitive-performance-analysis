@@ -126,7 +126,7 @@ Participants reported relatively high levels of focus following exercise, indica
 ### Motivation score
 The motivation score presents slightly lower levels and a wider distribution of perceived positive immidate impact following exercise.
 The mean was calculated at 3.64, and the median fell in at 3.5, indicating that the most common perceptions were positive or neutral.  
-However, the standard deviation, showed a fairly high number of 0.837, showcasing a noticeable lack of consistency within the population of how exercise can boost the willingness to complete academic tasks.
+However, the standard deviation presents a fairly high number of 0.837, showcasing a noticeable lack of consistency within the population of how exercise can boost the willingness to complete academic tasks.
 
 ### Stress score
 The second highest mean of 4.27, and the strongest consensus of the population regarded an immediate stress reduction following exercise.
@@ -178,6 +178,18 @@ In contrast to the descriptive statistics, the visualisations were created to pr
 **Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CapstoneProjectExerciseandAcademicProductivityAnalysis/CognitiveEffectsofExercise?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 
+Without putting too much emphasis on the mood score, which unarguably showcases a high consensus regarding its positive change following exercise, questions instead arose about how increased energy, reduced stress, and motivation relates to short-term productivity.
+
+Indidated by the scatterplots, the upward lines reveal positive relationships between perceived academic productivity and all three cognitive factors examined. Participants who reported higher levels of these factors following exercise generally also reported higher productivity scores. Although all relationships showed some degree of variability,motivation appears to exhibit the strongest positive association with productivity.
+
+As participants where provided with multiple options when presenting exercise types they typically engage in, we see a variability in how they affect individuals differently. Swimming and JAMBOX record the highest means throughout however, worth noting is that these two responses were only recorded once. In contrast, weightlifting and cardio showcase a more reliable finding as they are part of the majority of the population's workout habits.
+
+When examining frequency, and how it relates to direct academic productvity, no major differences were observed. However, before rejecting the possibility of frequency actually having a direct impact, it is important to consider that it may influence productivity indirectly. Factors such as energy, motivation, and stress reduction, all of which demonstrate positive relationships with perceived productivity could certainly be affected by how frequently one engages in physical activity. Therefore, it is worth highlighting even the small changes showcasing the possible advantage of exercising daily, and or seven to nine hours per week.
+
+Additionally, exercise intensity shows a similar pattern. While some differences were observed, favouring vigorous intensity, these should be interpreted with caution. 
+Much like exercise frequency, exercise intensity could be highly individual and may depend on factors such as fitness level, workout experience, and recovery capacity. Nonetheless, the finding should not be disregarded as a potential way to increase productivity, especially for individuals experiencing positive cognitive changes following exercise.
+
+In terms of the main question, to understand how exercise directly influence aacamedic productivity, we see a divided population. Although the majority being either neutral or agreeing to perceived positive changes, there are respondents that dont experience the same outcome.
 
 
 ## Qualitative Analysis
@@ -234,6 +246,8 @@ While the analysis indicates a positive trend, where individuals who exercise mo
 Therefore, it can not be conclusively stated that physical exercise leads to immediate productivity improvements for all individuals. Outcomes appear to depend on personal factors, exercise intensity, and individual perception.
 
 ## Recommendations
+
+These can be seen as possible initiatices to increase productivity further. Especially for ones that dont do it yet.
 
 Based on the results of the study, students experiencing positive cognitive change following physical activity should consider adapting their exercise habits to daily participation. In addition, these students may consider aligning their training sessions with study periods or exams to maximise potential performance benefits.
 
