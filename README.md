@@ -43,6 +43,7 @@ Inspiration for the study originated from personal observations regarding increa
 The study hypothesised that exercise has an immediate positive effect on one’s cognitive behaviour and direct ability to achieve increased academic productivity.
 
 ## Research Questions
+- How does exercise affect cognitive functions?
 - Does exercise frequency influence productivity?
 - Do cognitive effects such as increased energy, higher motivation, or reduced stress influence productivity?
 - Which exercise types are associated with higher productivity?
