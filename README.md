@@ -33,8 +33,6 @@ Inspiration for the study originated from personal observations regarding increa
 
 [Key Insights](#key-insights)
 
-[Final Results](#final-results)
-
 [Recommendations](#recommendations)
 
 
@@ -186,15 +184,33 @@ In contrast to the descriptive statistics, the visualisations were created to pr
 
 The qualitative component was based on five semi-structured interviews with students aged 18–30 who regularly engage in physical exercise, ranging from recreational to professional levels.
 
-A thematic analysis approach was used to identify patterns in participants’ responses. After familiarizing with the data through repeated review, key excerpts were manually coded and grouped into broader themes reflecting shared perceptions of exercise, productivity, and cognitive behavior.
+A thematic analysis approach was used to identify patterns in participants’ responses. After familiarising with the data through repeated review, key excerpts were manually coded and grouped into broader themes reflecting shared perceptions of exercise, productivity, and cognitive behavior.
 
-The findings reveal a strong consensus on the positive impact of physical exercise on mood, stress reduction, and overall well-being. Many participants linked improved mood to enhanced ability to manage academic tasks and long-term performance. For example, several respondents described exercise as a tool for stress relief and mental reset.
+The findings reveal a strong consensus on the positive impact of physical exercise on mood, stress reduction, and overall well-being. Many participants linked improved mood to enhanced ability to manage academic tasks and long-term performance. For example, several respondents described exercise as a "tool" for stress relief and mental reset.
 
 However, short-term productivity effects were mixed. Some participants reported increased focus and motivation immediately after exercise, while others experienced fatigue, particularly after intense workouts. A recurring theme was that workout quality influenced outcomes, with satisfying sessions boosting motivation and poor sessions reducing it.
 
 Additionally, a reciprocal relationship emerged between exercise and academic performance, where success in one area positively influenced motivation in the other.
 
 Overall, the qualitative insights complement the quantitative findings by highlighting how individual experiences, workout intensity, and psychological factors shape the relationship between physical activity and productivity.
+
+
+
+## Conclusion
+
+Findings derived from the analyses indicate that exercise generally has a positive influence on students' cognitive functioning and overall mental well-being. Above all, exercise appears to enhance focus and efficiency while reducing stress, resulting in enhanced mental functionality.
+
+However, notable to highlight is that not all participants experience similar outcomes following physical activity, in particular to if it in fact leads to immediate productivity.
+
+On one hand, exercises like swimming and JAMBOX signalise potential for increasing productivity, however, these results were based on a single participant and should be interpreted with caution. On the other hand, Calisthenics and weightlifting demonstrate slightly lower average productivity scores, but were supported by a larger and more reliable sample size.
+
+Although no large differences were detected, exercise frequency shows a slightly favourable outcome in increased productivity for students who exercise daily, seven to nine hours per week. 
+
+Regarding what intensity level results in highest perceived immediate productivity, quantitative findings reveal a slight advantage for participants engaging in vigorous exercise. However, the qualitative analysis challenge these findings as some participants claims that exercising to exhaustion could have a negative effect on their cognitive functions and immediate productivity.
+
+Although some respondents report an increased productivity following phsyical activity, findings show a fairly high differentiation within the population. Therefore, although quantitative data revealing similarities and correlations between exercise and cognitive functions, no definitive conclusion can be drawn to whether exercise is conclusively a direct intervention for reaching higher levels of productivity.
+
+Instead, the results highlight that some individuals may be more susceptible to exercise increasing their academic productivity than others. Students perceiving positive cognitive effects following exercise could therefore benefit from being consistent in their routines of exercise participation.
 
 
 
@@ -207,14 +223,7 @@ The analysis suggests several patterns in the relationship between exercise and 
 - Certain exercise types appear to be associated with higher productivity outcomes, although results vary across respondents.
 - Responses indicate individual differences, with some participants experiencing neutral or even negative short-term effects.
 
-Overall, the findings suggest that physical exercise can play a meaningful role in supporting students’ perceived cognitive performance and short-term academic productivity, although its impact is not uniform across all individuals.
-
-## Final Results
-
-- The majority of participants reported either neutral or positive immediate effects of physical exercise on their cognitive functioning and productivity levels.
-- Swimming and JAMBOX showed the highest perceived productivity levels following exercise; however, these results were based on a single participant and should be interpreted with caution.
-- Calisthenics and weightlifting demonstrated slightly lower average productivity scores, but were supported by a larger and more reliable sample size.
-- Participants engaging in vigorous-intensity exercise and/or training 7–9 hours per week exhibited a slight advantage in reported productivity levels.
+Overall, findings suggest that physical exercise can play a meaningful role in supporting students’ perceived cognitive performance and short-term academic productivity, although its impact is not uniform across all individuals.
 
 ### Disclaimer
 
@@ -226,6 +235,10 @@ Therefore, it can not be conclusively stated that physical exercise leads to imm
 
 ## Recommendations
 
-- Students who perceive improved cognitive functioning and productivity after exercise should consider aligning their training sessions with study periods or exams to maximize potential performance benefits.
-- As higher frequency and vigorous-intensity exercise were associated with slightly better productivity outcomes, students may benefit from maintaining a consistent weekly routine (e.g., 7–9 hours per week) to support cognitive and academic performance.
-- Given the variation in results, students should experiment with different types, intensities, and timing of exercise to identify what best enhances their own cognitive functioning and productivity.
+Based on the results of the study, students experiencing positive cognitive change following physical activity should consider adapting their exercise habits to daily participation. In addition, these students may consider aligning their training sessions with study periods or exams to maximise potential performance benefits.
+
+Although individuals are divided on this matter, vigorous intensity could serve for increasing short term productivity. At the same time, weightlifting, and calisthenics exercises were associated with slightly better productivity outcomes and students may benefit incorporating these types of exercises into their routine. 
+
+In contrast, individuals aware of the negative effects brought on them by exercise should be mindful of their limitations and the timing in relation to study periods and exams in which they engage in physical activity. 
+
+Additionally, universities may consider promoting physical activity in study routines and provide students with recreational sports programs. The institutions could also consider establishing or improving university facilities dedicated to physical exercise to foster a supportive environment and provide their students with the ability to achieve their best possible academic potential.
