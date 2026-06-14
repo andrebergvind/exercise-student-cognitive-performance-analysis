@@ -123,7 +123,7 @@ This step provided a baseline overview of how participants perceive the relation
 ![Dashboard](descriptive_statistics_exercise_and_academic_productivity_analysis.png)
 
 ### Focus score
-Participants reported relatively high levels of focus following exercise, indicating that exercise may contribute to immediate enhanced concentration and increased attention span. The recorded mean of 3.95 and median of 4 suggest that a big part of the population agrees with exercise leading to an enhanced focus, and the standard deviation of 0.687 in this case, suggests that the population is moderately agreeing to the effect of its nature.
+Participants reported relatively high levels of focus following exercise, indicating that exercise may contribute to immediate enhanced concentration and increased attention span. The recorded mean of 3.95 and median of 4 suggest that a large part of the population agrees with exercise resulting in enhanced focus. The standard deviation of 0.687 in this case, suggests that the population is moderately agreeing to the effect of its nature. 
 
 ### Motivation score
 The motivation score recorded slightly lower levels of perceived impact following exercise as the mean was calculated at 3.64, which however also was close to the median of 4. The standard deviation on the other hand, showed a fairly high number of 0.837, indicating a noticeable lack of consistency within the population of how exercise can boost the willingness to complete academic tasks.
