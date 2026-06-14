@@ -97,18 +97,18 @@ Data cleaning and transformation were performed in Google Sheets before importin
 
 The process included:
 
-- Cleaning and standardizing categorical variables 
+- Cleaning and standardising categorical variables 
 - Handling missing values and replacing undefined categories with appropriate labels
 - Creating midpoint variables for grouped responses including age group and exercise frequency
-- Structuring the dataset into two tables (`clean_data` and `clean_exercise_type`) connected through a respondent identifier
+- Structuring the dataset into two tables (clean_data) and (clean_exercise_type) connected through a respondent identifier
 
-These steps ensured that the dataset could be properly analysed and visualized in Tableau.
+These steps ensured that the dataset could be properly analysed and visualised in Tableau.
 
 ## Methodology
 
-The study applied descriptive methods to summarize participant responses, complemented by exploratory data analysis to identify patterns and relationships between exercise and various cognitive functions. 
+The study applied descriptive methods to summarise participant responses, complemented by exploratory data analysis to identify patterns and relationships between exercise and various cognitive functions. 
 
-The first step involved summarizing the distribution of responses across all key variables to provide an overall understanding of participants’ perceptions.
+The first step involved summarising the distribution of responses across all key variables to provide an overall understanding of participants’ perceptions.
 
 This included:
 - Calculating average, median, min, and max Likert scores for cognitive and productivity related variables
@@ -123,7 +123,7 @@ This step provided a baseline overview of how participants perceive the relation
 ![Dashboard](descriptive_statistics_exercise_and_academic_productivity_analysis.png)
 
 ### Focus score
-Participants have reported relatively high levels of focus following exercise, indicating that exercise may contribute to immediate enhanced concentration and increased attention span. The recorded mean of 3.95 and median of 4 suggest that a big part of the population agrees with exercise leading to an enhanced focus, and the standard deviation of 0.687 in this case, suggests that the population is moderately agreeing to the effect of its nature.
+Participants reported relatively high levels of focus following exercise, indicating that exercise may contribute to immediate enhanced concentration and increased attention span. The recorded mean of 3.95 and median of 4 suggest that a big part of the population agrees with exercise leading to an enhanced focus, and the standard deviation of 0.687 in this case, suggests that the population is moderately agreeing to the effect of its nature.
 
 ### Motivation score
 The motivation score recorded slightly lower levels of perceived impact following exercise as the mean was calculated at 3.64, which however also was close to the median of 4. The standard deviation on the other hand, showed a fairly high number of 0.837, indicating a noticeable lack of consistency within the population of how exercise can boost the willingness to complete academic tasks.
