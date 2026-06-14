@@ -168,14 +168,15 @@ In contrast to the descriptive statistics, the visualisations were created to pr
 
 ## Dashboards
 
+### Tableau Workbook
+**Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CapstoneProjectExerciseandAcademicProductivityAnalysis/CognitiveEffectsofExercise?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+
 ### Cognitive Effects of Exercise
 ![Dashboard](dashboard_cognitive_effects.png)
 
 ### Exercise Behaviour and Productivity
 ![Dashboard](dashboard_exercise_productivity.png)
 
-## Tableau Workbook
-**Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CapstoneProjectExerciseandAcademicProductivityAnalysis/CognitiveEffectsofExercise?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 
 Without putting too much emphasis on the mood score, which unarguably showcases a high consensus regarding its positive change following exercise, questions instead arose about how increased energy, reduced stress, and motivation relates to short-term productivity.
@@ -222,8 +223,8 @@ Regarding what intensity level results in highest perceived immediate productivi
 
 Although some respondents report an increased productivity following phsyical activity, findings show a fairly high differentiation within the population. Therefore, despite quantitative data revealing similarities and correlations between exercise and cognitive functions, no definitive conclusion can be drawn to whether exercise is conclusively a direct intervention for reaching higher levels of productivity.
 
-Instead, results highlight that some individuals may be more susceptible to exercise increasing their academic productivity than others. Students perceiving positive cognitive effects following exercise could therefore benefit from being consistent in their routines of exercise participation.
-
+Instead, results highlight that some individuals may be more susceptible to exercise increasing their academic productivity than others. 
+Therefore, recommendations should not be uniform, but acknowledge individuals' differences to highlight possible initiatives while recognising that the effectiveness of such approaches may vary between individuals.
 
 
 ## Key Insights
