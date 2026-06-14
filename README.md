@@ -162,8 +162,6 @@ Following the descriptive overview, relationships between variables were explore
 - Relationships between exercise behaviour and perceived productivity
 - Correlations between cognitive outcomes (energy, stress reduction, motivation) and productivity
 - Differences in productivity across exercise types, frequency levels, and intensity
-  
-In contrast to the descriptive statistics, the visualisations were created to provide a comparison of exercise habits and perceived cognitive functions. Therefore, the following analysis focuses on observed associations rather than statistical inference.
 
 
 ## Dashboards
@@ -178,6 +176,7 @@ In contrast to the descriptive statistics, the visualisations were created to pr
 ![Dashboard](dashboard_exercise_productivity.png)
 
 
+In contrast to the descriptive statistics, the visualisations were created to provide a comparison of exercise habits and perceived cognitive functions. Therefore, the following analysis focuses on observed associations rather than statistical inference.
 
 Without adding too much emphasis on the mood score, which unarguably showcases a high consensus regarding its positive change following exercise, questions instead arose about how increased energy, reduced stress, and motivation relates to short-term productivity.
 
@@ -190,7 +189,7 @@ When examining frequency, and how it relates to direct academic productvity, no 
 Additionally, exercise intensity shows a similar pattern. While some differences were observed, favouring vigorous intensity, these should be interpreted with caution. 
 Much like exercise frequency, exercise intensity could be highly individual and may depend on factors such as fitness level, workout experience, and recovery capacity. Nonetheless, the finding should not be disregarded as a potential way to increase productivity, especially for individuals experiencing positive cognitive changes following exercise.
 
-In terms of the main question, to understand how exercise directly influence aacamedic productivity, we see a divided population. Although the majority being either neutral or agreeing to perceived positive changes, there are respondents that dont experience the same outcome.
+In terms of the main question, to understand how exercise directly influence acamedic productivity, we see a divided population. Although the majority being either neutral or agreeing to perceived positive changes, there are respondents experiencing negative outcome.
 
 
 ## Qualitative Analysis
@@ -199,14 +198,19 @@ The qualitative component was based on five semi-structured interviews with stud
 
 A thematic analysis approach was used to identify patterns in participants’ responses. After familiarising with the data through repeated review, key excerpts were manually coded and grouped into broader themes reflecting shared perceptions of exercise, productivity, and cognitive behavior.
 
+The themes derived from the analysis were:
+- Exercise increases focus levels and efficiency leading to enhanced productivity
+- Exercise regulates stress and improves overall mood
+- Exercise boosts productivity through increased levels of energy and motivation
+- Poor exercise quality inhibits productivity outcome and vice versa
+
 The findings reveal a strong consensus on the positive impact of physical exercise on mood, stress reduction, and overall well-being. Many participants linked improved mood to enhanced ability to manage academic tasks and long-term performance. For example, several respondents described exercise as a "tool" for stress relief and mental reset.
 
-However, short-term productivity effects were mixed. Some participants reported increased focus and motivation immediately after exercise, while others experienced fatigue, particularly after intense workouts. A recurring theme was that workout quality influenced outcomes, with satisfying sessions boosting motivation and poor sessions reducing it.
+However, short-term productivity effects were mixed. Some participants reported increased energy and motivation immediately after exercise, while others experienced fatigue, particularly after intense workouts. A recurring theme was that workout quality influenced outcomes, with satisfying sessions boosting motivation and poor sessions reducing it.
 
-Additionally, a reciprocal relationship emerged between exercise and academic performance, where success in one area positively influenced motivation in the other.
+Subsequently, a reciprocal relationship emerged between exercise and academic performance, where success in one area positively influenced motivation in the other.
 
-Overall, the qualitative insights complement the quantitative findings by highlighting how individual experiences, workout intensity, and psychological factors shape the relationship between physical activity and productivity.
-
+Overall, the qualitative insights served to complement the quantitative findings by highlighting how individual experiences, workout intensity, and psychological factors shape the relationship between physical activity and productivity.
 
 
 ## Conclusion
@@ -248,10 +252,16 @@ Therefore, it can not be conclusively stated that physical exercise leads to imm
 
 ## Recommendations
 
-Based on the results of the study, students experiencing positive cognitive change following physical activity should consider adapting their exercise habits to daily participation. In addition, these students may consider aligning their training sessions with study periods or exams to maximise potential performance benefits. 
+Based on the results of the study, students who experience positive cognitive change following physical activity may stand to benefit from adapting their exercise habits to daily participation. 
 
-Although individuals are divided on this matter, vigorous intensity could serve for increasing short term productivity. At the same time, weightlifting, and calisthenics exercises were associated with slightly better productivity outcomes and students may benefit incorporating these types of exercises into their routine. 
+Although respondents' were divided on this matter, vigorous intensity could serve for increasing short term productivity. At the same time, weightlifting, and calisthenics exercises were associated with slightly better productivity outcomes and students may therefore benefit from incorporating these types of exercises into their routine. 
 
-In contrast, individuals aware of the negative effects brought on them by exercise should be mindful of their limitations and the timing in relation to study periods and exams in which they engage in physical activity. 
+In addition, students that experience immediate productivity increases following exercise may consider aligning their training sessions with study periods or exams to maximise potential performance benefits. 
 
-Additionally, universities may consider promoting physical activity in study routines and provide students with recreational sports programs. The institutions could also consider establishing or improving university facilities dedicated to physical exercise to foster a supportive environment and provide their students with the ability to achieve their best possible academic potential.
+In contrast, individuals aware of negative immediate effects brought on by exercise should be mindful of their limitations and the timing in relation to study periods and exams in which they engage in physical activity. 
+
+Additionally, with students being the target population for the study, universities may consider implementing measures to aid students in their quest for maximising productivity.
+
+Therefore, universities should consider promoting physical activity in study routines and provide students with recreational sports programs. 
+
+The institutions could also consider establishing or improving university facilities dedicated to physical exercise to foster a supportive environment and provide their students with the ability to achieve their best possible academic potential.
