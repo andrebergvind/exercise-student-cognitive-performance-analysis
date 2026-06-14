@@ -179,7 +179,7 @@ In contrast to the descriptive statistics, the visualisations were created to pr
 
 
 
-Without putting too much emphasis on the mood score, which unarguably showcases a high consensus regarding its positive change following exercise, questions instead arose about how increased energy, reduced stress, and motivation relates to short-term productivity.
+Without adding too much emphasis on the mood score, which unarguably showcases a high consensus regarding its positive change following exercise, questions instead arose about how increased energy, reduced stress, and motivation relates to short-term productivity.
 
 Indidated by the scatterplots, the upward lines reveal positive relationships between perceived academic productivity and all three cognitive factors examined. Participants who reported higher levels of these factors following exercise generally also reported higher productivity scores. Although all relationships showed some degree of variability,motivation appears to exhibit the strongest positive association with productivity.
 
