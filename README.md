@@ -248,9 +248,7 @@ Therefore, it can not be conclusively stated that physical exercise leads to imm
 
 ## Recommendations
 
-These can be seen as possible initiatices to increase productivity further. Especially for ones that dont do it yet.
-
-Based on the results of the study, students experiencing positive cognitive change following physical activity should consider adapting their exercise habits to daily participation. In addition, these students may consider aligning their training sessions with study periods or exams to maximise potential performance benefits.
+Based on the results of the study, students experiencing positive cognitive change following physical activity should consider adapting their exercise habits to daily participation. In addition, these students may consider aligning their training sessions with study periods or exams to maximise potential performance benefits. 
 
 Although individuals are divided on this matter, vigorous intensity could serve for increasing short term productivity. At the same time, weightlifting, and calisthenics exercises were associated with slightly better productivity outcomes and students may benefit incorporating these types of exercises into their routine. 
 
