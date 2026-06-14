@@ -9,7 +9,7 @@ Its purpose was to contribute to a deeper understanding of the relationship betw
 
 The research applied a mixed methods approach, combining both quantitative and qualitative data collected through surveys and interviews. This provided measurable insights into behavioral patterns and perceived productivity outcomes, while also enabling a deeper understanding of individual experiences and perceptions of exercise linked with academic performance.
 
-Inspiration for the study originated from personal observations of increased cognitive functioning, motivation, and productivity immediately following exercise.
+Inspiration for the study originated from personal observations regarding increased cognitive functioning, motivation, and productivity immediately following exercise.
 
 ## Project Structure
 
