@@ -208,9 +208,9 @@ Although no large differences were detected, exercise frequency shows a slightly
 
 Regarding what intensity level results in highest perceived immediate productivity, quantitative findings reveal a slight advantage for participants engaging in vigorous exercise. However, the qualitative analysis challenge these findings as some participants claims that exercising to exhaustion could have a negative effect on their cognitive functions and immediate productivity.
 
-Although some respondents report an increased productivity following phsyical activity, findings show a fairly high differentiation within the population. Therefore, although quantitative data revealing similarities and correlations between exercise and cognitive functions, no definitive conclusion can be drawn to whether exercise is conclusively a direct intervention for reaching higher levels of productivity.
+Although some respondents report an increased productivity following phsyical activity, findings show a fairly high differentiation within the population. Therefore, despite quantitative data revealing similarities and correlations between exercise and cognitive functions, no definitive conclusion can be drawn to whether exercise is conclusively a direct intervention for reaching higher levels of productivity.
 
-Instead, the results highlight that some individuals may be more susceptible to exercise increasing their academic productivity than others. Students perceiving positive cognitive effects following exercise could therefore benefit from being consistent in their routines of exercise participation.
+Instead, results highlight that some individuals may be more susceptible to exercise increasing their academic productivity than others. Students perceiving positive cognitive effects following exercise could therefore benefit from being consistent in their routines of exercise participation.
 
 
 
