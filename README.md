@@ -126,30 +126,34 @@ This step provided a baseline overview of how participants perceive the relation
 Participants reported relatively high levels of focus following exercise, indicating that exercise may contribute to immediate enhanced concentration and increased attention span. The recorded mean of 3.95 and median of 4 suggest that a large part of the population agrees with exercise resulting in enhanced focus. The standard deviation of 0.687 in this case, suggests that the population is moderately agreeing to the effect of its nature. With responses ranging from 2 to 5, noticabe is that no respondent claimed to strongly disagree with exercise contributing to increased focus.
 
 ### Motivation score
-The motivation score presents slightly lower levels of perceived impact following exercise as the mean was calculated at 3.64, which however also was close to the median of 4. The standard deviation on the other hand, showed a fairly high number of 0.837, indicating a noticeable lack of consistency within the population of how exercise can boost the willingness to complete academic tasks.
+The motivation score presents slightly lower levels and a wider distribution of perceived positive immidate impact following exercise.
+The mean was calculated at 3.64, and the median fell in at 3.5, indicating that the most common perceptions were positive or neutral.  
+However, the standard deviation, showed a fairly high number of 0.837, showcasing a noticeable lack of consistency within the population of how exercise can boost the willingness to complete academic tasks.
 
 ### Stress score
-With the second highest mean of 4.27 and the lowest score in standard deviation, 0.493, a reduced level of stress was unarguably perceived as the factor most positively affected by physical exercise.
+The second highest mean of 4.27, and the strongest consensus of the population regarded an immediate stress reduction following exercise.
+No respondent recorded that stress does in fact increase following exercise, but rather that it either remains neutral or that it decreases.
+This result highlights stress reduction as one of the main cognitive functionings most positively affected in the population.
 
 ### Energy score
-The energy score, entailing both physical and mental energy, was undeniably another factor positively affected following exercise. The mean recorded a value of 4.17, similar to the median of 4, indicating that the main share of the population agreed with exercise having a positive impact on their energy levels. The standard deviation on the other hand showcased a value of 0.719, suggesting some variation in the responses.
+The energy score, entailing both physical and mental energy, is undeniably another factor positively affected following exercise. The mean recorded a value of 4.17, similar to the median of 4, indicating that the main share of the population agrees with exercise having a positive impact on their energy levels. The standard deviation on the other hand showcases a value of 0.719, suggesting some variation in the responses.
 
 ### Mood score
-With the highest mean of 4.42, and median of 4.5, the mood score implies that exercise has the strongest positive effect on students’ overall mood and well-being. The standard deviation of 0.643 tells us that the data is fairly consistent, and the main part of the population perceive that exercise improves their overall mood.
+With the highest mean of 4.42, and median of 4.5, the mood score implies that exercise has the strongest positive effect on students’ overall mood and well-being. The standard deviation of 0.643 tells us that the data is fairly consistent, and the main part of the population perceive that exercise improves their overall mood. 
 
 ### Productivity score
-The productivity score recorded a mean of 3.37, and a median of 3.5, making it one of the lowest average perceived factors following exercise. Generally, the majority of the population seemed to be neutral about its outcome after exercise. The standard deviation however, recorded 0.741, suggesting that opinions are divided regarding this matter.
+The productivity score recorded a mean of 3.37, and a median of 3.5, making it one of the lowest average perceived factors following exercise. Generally, the majority of the population seemed to be neutral about its outcome. The standard deviation however, recorded 0.741, suggesting that opinions are divided regarding this matter, with the highest score recording 4.5 and the lowest 1.
 
 ### Motives score
-With the lowest mean of 2.81, and median of 3, the motives score indicated that the majority did not agree with academic productivity being a reason for why they exercise. The standard deviation, however, showed the highest variability of 0.996, suggesting that there is a strong disagreement in the population. The large variation tells us that the population perceive different motives for why they exercise, with some participants strongly agreeing, and other strongly disagreeing with the idea that their physical activities are driven by their academic productivity goals.
+With the lowest mean of 2.81, and median of 3, the motives score indicates that the majority did not agree with academic productivity being a reason for why they exercise. The standard deviation, however, showed the highest variability of 0.996, suggesting that there is a strong disagreement within the population. The large variation tells us that the individuals perceive different motives for why they exercise, with some participants strongly agreeing, and other strongly disagreeing with the idea of their physical activities are driven by their academic productivity goals.
 
 ### General Impact score
-The general impact score showcased the second most consistent values due to the lowest standard deviation recorded, 0.591. The mean of 4.01 and median of 4, indicates that the majority of the participants generally perceive exercise as having a positive impact on their cognitive behaviour, long term well-being, and overall academic achievements. 
+The general impact score showcases the second most consistent values with a standard deviation recorded at 0.591. The mean of 4.01 and median of 4, indicates that the majority of the participants generally perceive exercise as having a positive impact on their cognitive behaviour, long term well-being, and overall academic achievements. Yet, the minimum recorded value suggests that there are in fact respondents that do not consider exercise to have a positive general impact on their academic capabilities.
 
 ### Summary of Scores
 Notably, we can tell that participants generally believe that exercise has a significant positive effect on their overall mood, reduced levels of stress, and increased energy. 
 
-The motives for exercise in relation to academical benefits, the motivation gained from it, and the short-term productivity it leads to however, show lower scores, suggesting that exercise has an insignificant or perhaps even negative impact for some students on the perceived direct academic benefits of physical activity. However, looking at the high standard deviation, the data suggests that the population disagrees regarding these factors, indicating differing perceptions among the participants.
+The motives for exercise in relation to academic benefits, the motivation gained from it, and the short-term productivity it leads to however, show lower scores. These suggest that exercise may have an insignificant or perhaps even negative impact on some students cognitive functions and immediate productivity. However, the high standard deviation suggests a low level of consensus among participants regarding these factors, indicating differing perceptions within the sample.
 
 
 
@@ -161,7 +165,7 @@ Following the descriptive overview, relationships between variables were explore
 - Correlations between cognitive outcomes (energy, stress reduction, motivation) and productivity
 - Differences in productivity across exercise types, frequency levels, and intensity
   
-In contrast to the descriptive statistics, the visualisations were created to provide a comparison of exercise habits and perceived cognitive functions. Therefore, the following analysis focused on observed associations rather than statistical inference.
+In contrast to the descriptive statistics, the visualisations were created to provide a comparison of exercise habits and perceived cognitive functions. Therefore, the following analysis focuses on observed associations rather than statistical inference.
 
 
 ## Dashboards
@@ -175,7 +179,8 @@ In contrast to the descriptive statistics, the visualisations were created to pr
 ## Tableau Workbook
 **Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CapstoneProjectExerciseandAcademicProductivityAnalysis/CognitiveEffectsofExercise?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
-The packaged Tableau workbook (.twbx) is also included in this repository.
+
+
 
 ## Qualitative Analysis
 
