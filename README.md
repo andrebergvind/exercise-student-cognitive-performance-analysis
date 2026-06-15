@@ -5,11 +5,13 @@
 A life science and human performance research study conducted at University.
 
 The study investigated whether exercising influences students' perceived cognitive functioning and short-term academic productivity. 
-Its purpose was to contribute to a deeper understanding of the relationship between physical activity and academic performance, while also providing practical recommendations that may help students optimize their exercise routines to support optimal productivity in connection with academic tasks and studies.
+Its purpose was to contribute to a deeper understanding of the relationship between physical activity and academic performance, while also providing practical recommendations that may help students optimise their exercise routines to support optimal productivity in connection with academic tasks and studies.
 
-The research applied a mixed methods approach, combining both quantitative and qualitative data collected through surveys and interviews. This provided measurable insights into behavioral patterns and perceived productivity outcomes, while also enabling a deeper understanding of individual experiences and perceptions of exercise linked with academic performance.
+The research applied a mixed methods approach, combining both quantitative and qualitative data collected through surveys and interviews. This provided measurable insights into behavioral patterns and perceived productivity outcomes, while also enabling a deeper understanding of individual experiences and perceptions.
 
 Inspiration for the study originated from personal observations regarding increased cognitive functioning, motivation, and productivity immediately following exercise.
+
+The population includes university students aged 18 to 30.
 
 ## Project Structure
 
@@ -100,11 +102,15 @@ The process included:
 - Creating midpoint variables for grouped responses including age group and exercise frequency
 - Structuring the dataset into two tables (clean_data) and (clean_exercise_type) connected through a respondent identifier
 
+In addition, to easier facilititate the analysis, values recorded in statements concerning the same cognitive function where combined.
+
 These steps ensured that the dataset could be properly analysed and visualised in Tableau.
 
 ## Methodology
 
-The study applied descriptive methods to summarise participant responses, complemented by exploratory data analysis to identify patterns and relationships between exercise and various cognitive functions. 
+The study applied descriptive methods to summarise participant responses along with an exploratory data analysis to identify patterns and relationships between exercise and various cognitive functions. 
+
+These were later complemented by qualitative research, conducted on five carefully selected participants.
 
 The first step involved summarising the distribution of responses across all key variables to provide an overall understanding of participants’ perceptions.
 
