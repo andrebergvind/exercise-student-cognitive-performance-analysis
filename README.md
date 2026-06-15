@@ -11,7 +11,7 @@ The research applied a mixed methods approach, combining both quantitative and q
 
 Inspiration for the study originated from personal observations regarding increased cognitive functioning, motivation, and productivity immediately following exercise.
 
-The population includes university students aged 18 to 30.
+The population included university students aged 18 to 30.
 
 ## Project Structure
 
