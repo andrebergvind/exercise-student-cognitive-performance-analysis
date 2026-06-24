@@ -108,18 +108,17 @@ These steps ensured that the dataset could be properly analysed and visualised i
 
 ## Methodology
 
-The study applied descriptive methods to summarise participant responses along with an exploratory data analysis to identify patterns and relationships between exercise and various cognitive functions. 
-
-These were later complemented by qualitative research, conducted on five carefully selected participants.
-
-The first step involved summarising the distribution of responses across all key variables to provide an overall understanding of participants’ perceptions.
+Initially the study applied a descriptive method, summarising participant responses across key variables to provide an overall understanding of individuals’ perceptions.
 
 This included:
 - Calculating average, median, min, and max Likert scores for cognitive and productivity related variables
 - Examining the distribution of responses for each statement
 - Identifying general trends in perceived cognitive effects following exercise
 
-This step provided a baseline overview of how participants perceive the relationship between exercise and cognitive performance.
+Thereafter, followed an exploratory data analysis, using scatter plots, to identify patterns and relationships between exercise types, cognitive functions and short-term productivity. 
+
+Finally, the findings emerged from the quantitative analysis were complemented by a qualitative analysis, conducted on five carefully selected participants
+This step allowed for a more detailed understanding of how participants perceive the relationship between exercise and cognitive performance.
 
 ## Quantitative Analysis
 
@@ -225,7 +224,7 @@ Findings derived from the analyses indicate that exercise generally has a positi
 
 However, notable to highlight is that not all participants experience similar outcomes following physical activity, in particular to if it in fact leads to immediate productivity.
 
-On one hand, exercises like swimming and JAMBOX signalise potential for increasing productivity, however, these results were based on a single participant and should be interpreted with caution. On the other hand, Calisthenics and weightlifting demonstrate slightly lower average productivity scores, but were supported by a larger and more reliable sample size.
+On one hand, exercises like swimming and JAMBOX signalise potential for increased productivity, however, these results were based on a single participant and should be interpreted with caution. On the other hand, Calisthenics and weightlifting demonstrate slightly lower average productivity scores, but were supported by a larger and more reliable sample size.
 
 Although no large differences were detected, exercise frequency shows a slightly favourable outcome in increased productivity for students who exercise daily, seven to nine hours per week. 
 
@@ -258,7 +257,7 @@ Therefore, it can not be conclusively stated that physical exercise leads to imm
 
 ## Recommendations
 
-Based on the results of the study, students who experience positive cognitive change following physical activity may stand to benefit from adapting their exercise habits to daily participation. 
+Based on the results, students who experience positive cognitive change following physical activity may stand to benefit from adapting their exercise habits to daily participation. 
 
 Although respondents' were divided on this matter, vigorous intensity could serve for increasing short term productivity. At the same time, weightlifting, and calisthenics exercises were associated with slightly better productivity outcomes and students may therefore benefit from incorporating these types of exercises into their routine. 
 
