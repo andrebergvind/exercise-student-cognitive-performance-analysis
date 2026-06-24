@@ -35,6 +35,8 @@ The population included university students aged 18 to 30.
 
 [Key Insights](#key-insights)
 
+[Result](#result)
+
 [Recommendations](#recommendations)
 
 
@@ -247,13 +249,19 @@ The analysis suggests several patterns in the relationship between exercise and 
 
 Overall, findings suggest that physical exercise can play a meaningful role in supporting students’ perceived cognitive performance and short-term academic productivity, although its impact is not uniform across all individuals.
 
-### Disclaimer
+## Result
 
-The wide variation in responses detected in the descriptive statistics indicates a divided sample, with responses ranging from very low to very high perceived cognitive effects. This highlights that the relationship between exercise and productivity is not uniform.
+The wide variation in responses detected in the descriptive statistics indicates a divided sample, with responses ranging from low to high cognitive changes following exercise. This highlights that the effects of exercise on short-term productivity is not uniform across the study population.
 
-While the analysis indicates a positive trend, where individuals who exercise more frequently and report stronger cognitive benefits also tend to report higher productivity, these findings remain correlational.
+Although there are modest differences in how frequency and intensity affect cognitive functions, findings show a slight favourable outcome for individuals conducting their exercise in a vigorous intensity, daily, seven to nine hours per week.
 
-Therefore, it can not be conclusively stated that physical exercise leads to immediate productivity improvements for all individuals. Outcomes appear to depend on personal factors, exercise intensity, and individual perception.
+While the quantitative analysis indicates a positive trend, where individuals who exercise more frequently and report stronger cognitive benefits also tend to report higher productivity, these findings merely suggest individual differences.
+
+The qualitative anylisis further supports these findings as participants' report varying personal experiences regarding how different exercise routines directly influence their daily efficiency and mental clarity.
+
+In essence, exercise has a strong immediate impact on some individuals. Students experiencing improved cognitive functioning also tends to report a stronger connection with increased short-term productivity. 
+
+Yet, regarding the hypothesis, it can not be definitely concluded that physical exercise leads to improved immediate productivity for all individuals. Outcomes could depend on genetics, physical ability, and personal interests.
 
 ## Recommendations
 
