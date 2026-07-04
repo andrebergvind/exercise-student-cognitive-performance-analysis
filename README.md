@@ -2,9 +2,7 @@
 
 ## Project Overview
 
-A life science and human performance research study conducted at university.
-
-The study investigated whether exercising influences students' perceived cognitive functioning and short-term academic productivity. 
+A life science and human performance research study conducted at university. The study investigated whether exercising influences students' perceived cognitive functioning and short-term academic productivity. 
 
 Its purpose was to contribute to a deeper understanding of the relationship between physical activity and academic performance, while also providing practical recommendations that may help students optimise their exercise routines to support optimal productivity in connection with academic tasks and studies.
 
