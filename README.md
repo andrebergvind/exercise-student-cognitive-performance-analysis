@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-A life science and human performance research study conducted at university. The study investigated whether exercising influences students' perceived cognitive functioning and short-term academic productivity. 
+A life science and human performance research study conducted at university. The study investigated whether exercising influences students' perceived cognitive functioning and short-term productivity. 
 
-Its purpose was to contribute to a deeper understanding of the relationship between physical activity and academic performance, while also providing practical recommendations that may help students optimise their exercise routines to support optimal academic productivity.
+Its purpose was to contribute to a deeper understanding of the relationship between physical activity and cognitive outcomes, while also providing practical recommendations that may help students optimise their exercise routines to support optimal academic productivity.
 
-The research applied a mixed methods approach, combining both quantitative and qualitative data collected through surveys and interviews. This provided measurable behavioral patterns, while also enabling a deeper understanding of individual experiences and perceptions.
+The research applied a mixed methods approach, combining both quantitative and qualitative data collected through surveys and interviews. This allowed for measurable behavioral patterns, while also enabling a deeper understanding of individual experiences and perceptions.
 
 Inspiration for the study originated from personal observations regarding increased cognitive functioning, motivation, and productivity immediately following exercise.
 
