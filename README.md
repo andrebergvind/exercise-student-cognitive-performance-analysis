@@ -47,7 +47,7 @@ The study hypothesised that exercise has an immediate positive effect on one’s
 - How does exercise affect cognitive functions?
 - Does exercise frequency influence productivity?
 - Do cognitive effects such as increased energy, higher motivation, or reduced stress influence productivity?
-- Which exercise types are associated with higher productivity?
+- Which exercise types are associated with increased productivity?
 
 ## Tools Used
 - Google Forms
