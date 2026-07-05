@@ -186,7 +186,7 @@ In contrast to the descriptive statistics, the visualisations were created to pr
 
 Without adding too much emphasis on the mood score, which unarguably showcases a high consensus regarding its positive change following exercise, questions instead arose about how increased energy, reduced stress, and motivation relates to short-term productivity.
 
-Indidated by the scatterplots, the upward lines reveal positive relationships between perceived academic productivity and all three cognitive factors examined. Participants who reported higher levels of these factors following exercise generally also reported higher productivity scores. Although all relationships showed some degree of variability,motivation appears to exhibit the strongest positive association with productivity.
+As indicated by the scatterplots, the upward lines reveal positive relationships between perceived academic productivity and all three cognitive factors examined. Participants who reported higher levels of these factors following exercise generally also reported higher productivity scores. Although all relationships showed some degree of variability,motivation appears to exhibit the strongest positive association with productivity.
 
 As participants where provided with multiple options when presenting exercise types they typically engage in, we see a variability in how they affect individuals differently. Swimming and JAMBOX record the highest means throughout however, worth noting is that these two responses were only recorded once. In contrast, weightlifting and cardio showcase a more reliable finding as they are part of the majority of the population's workout habits.
 
@@ -195,7 +195,7 @@ When examining frequency, and how it relates to direct academic productvity, no 
 Additionally, exercise intensity shows a similar pattern. While some differences were observed, favouring vigorous intensity, these should be interpreted with caution. 
 Much like exercise frequency, exercise intensity could be highly individual and may depend on factors such as fitness level, workout experience, and recovery capacity. Nonetheless, the finding should not be disregarded as a potential way to increase productivity, especially for individuals experiencing positive cognitive changes following exercise.
 
-In terms of the main question, to understand how exercise directly influence acamedic productivity, we see a divided population. Although the majority being either neutral or agreeing to perceived positive changes, there are respondents experiencing negative outcome.
+In terms of the main question, to understand how exercise directly influence acamedic productivity, results showcase a divided population. Although the majority being either neutral or agreeing to perceived positive changes, there are respondents experiencing negative outcomes.
 
 
 ## Qualitative Analysis
