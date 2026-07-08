@@ -10,6 +10,8 @@ The research applied a mixed methods approach, combining both quantitative and q
 
 Inspiration for the study originated from personal observations regarding increased cognitive functioning, motivation, and productivity immediately following exercise.
 
+While this project built upon existing literature, the following analysis focuses exclusively on the primary research conducted.
+
 The population included university students aged 18 to 30.
 
 ## Project Structure
@@ -41,6 +43,30 @@ The population included university students aged 18 to 30.
 [Recommendations](#recommendations)
 
 ## Background & Justification
+
+In modern society, the positive effect of physical exercise is frequently praised due to its benefits related to long term health. An extensive body of research on the subject suggests that exercising does not only enhance one’s physical state but also improves emotional well-being.
+
+In biochemical terms, the benefits emerging from engaging in physical activity include the stimulated release of endorphins and serotonin, neurotransmitters that contribute to improved mood and reduced tension. Concurrently, it is suggested that regular exercise mitigates the production of stress hormones like adrenaline and cortisol, leaving individuals feeling less stressed.
+
+In an academic setting where students are constantly faced with new learning materials and relentless deadline pressures, coping with stress and finding strategies to achieve optimal cognitive functioning becomes key.
+
+Yet, maintaining physical activity can be difficult, particularly when an individual's health is compromised by stress or a lack of energy, a reality especially relevant to the life of a student.
+
+In this scenario, the role of exercise as a method to relieve stress and enhance cognitive functioning becomes paradoxical. However, when discussing physical activity as an intervention to achieve increased short-term productivity rather than long-term health, it becomes particularly interesting due to its established benefits, such as increased arousal and reduced levels of anxiety.
+
+In neuroscience, dopamine, acetylcholine, and noradrenaline, neurochemicals stimulated by physical activity, are often recognised as modulators of attention, memory encoding, and alertness, factors that directly underpin productivity.
+However, whether the benefits of exercise apply universally to all individuals remains uncertain. 
+
+For instance, exercise that influences underlying neurobiological mechanisms could certainly bare significant change to ones ability to feel more relaxed in a stressful situation. Yet in order to ehnance cognitive functioning, psychosocial processes may be just as important as biophysical processes. 
+
+In this study, I examine over 50 university students aged 18 to 30 to determine if there is a connection between exercising, cognitive functioning, and short-term productivity.
+
+The research aims to contribute to sports science by providing empirical data on the acute, immediate cognitive effects of exercise, rather than its well documented long-term physical benefits.
+
+Examining the relationship between exercise and immediate productivity on university students might spark questions of reformed pedagogical strategies, study habits, and exam preparations, along with the implementation of necessary campus resources. 
+
+Gaining more insight into the effect that physical exercise has on students' ability to perform in an educational setting may provide us with a deeper understanding of the needs they have to achieve overall academic success, paramount not only for the students themselves but also for university institutions.
+
 
 ## Hypothesis
 The study hypothesised that exercise has an immediate positive effect on one’s cognitive behaviour and direct ability to achieve increased academic productivity.
@@ -262,7 +288,7 @@ The qualitative anylisis further supports these findings as participants' report
 
 In essence, exercise has a strong immediate impact on some individuals. Students experiencing improved cognitive functioning also tends to report a stronger connection with increased short-term productivity. 
 
-Yet, regarding the hypothesis, it can not be definitely concluded that physical exercise leads to improved immediate productivity for all individuals. Outcomes could depend on genetics, physical ability, and personal interests.
+Yet, the premise that physical exercise leads to improved immediate productivity is highly conditional, which may depend on genetics, physical ability, and personal interests.
 
 ## Recommendations
 
