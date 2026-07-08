@@ -69,7 +69,7 @@ Gaining more insight into the effect that physical exercise has on students' abi
 
 
 ## Hypothesis
-The study hypothesised that exercise has an immediate positive effect on one’s cognitive behaviour and direct ability to achieve increased academic productivity.
+The study hypothesized that exercise has an immediate positive effect on an individual's cognitive functioning and their ability to achieve increased academic productivity.
 
 ## Research Questions
 - How does exercise affect cognitive functions?
