@@ -230,9 +230,9 @@ In terms of the main question, to understand how exercise directly influence aca
 
 The qualitative component was based on five semi-structured interviews with students aged 18–30 who regularly engage in physical exercise, ranging from recreational to professional levels.
 
-A thematic analysis approach was used to identify patterns in participants’ responses. After familiarising with the data through repeated review, key excerpts were manually coded and grouped into broader themes reflecting shared perceptions of exercise, productivity, and cognitive behavior.
+A thematic analysis approach was used to identify patterns in participants’ responses. After familiarising myself with the data through repeated review, key excerpts were manually coded and grouped into broader themes reflecting shared perceptions of exercise, productivity, and cognitive functioning.
 
-The themes derived from the analysis were:
+Themes derived from the analysis were:
 - Exercise increases focus levels and efficiency leading to enhanced productivity
 - Exercise regulates stress and improves overall mood
 - Exercise boosts productivity through increased levels of energy and motivation
@@ -240,7 +240,7 @@ The themes derived from the analysis were:
 
 The findings reveal a strong consensus on the positive impact of physical exercise on mood, stress reduction, and overall well-being. Many participants linked improved mood to enhanced ability to manage academic tasks and long-term performance. For example, several respondents described exercise as a "tool" for stress relief and mental reset.
 
-However, short-term productivity effects were mixed. Some participants reported increased energy and motivation immediately after exercise, while others experienced fatigue, particularly after intense workouts. A recurring theme was that workout quality influenced outcomes, with satisfying sessions boosting motivation and poor sessions reducing it.
+However, short-term productivity effects were mixed. Some participants reported increased energy and motivation immediately after exercise, while others claimed to experience fatigue, particularly after intense workouts. A recurring theme was that workout quality influenced outcomes, with satisfying sessions boosting motivation and poor sessions reducing it.
 
 Subsequently, a reciprocal relationship emerged between exercise and academic performance, where success in one area positively influenced motivation in the other.
 
@@ -251,15 +251,15 @@ Overall, the qualitative insights served to complement the quantitative findings
 
 Findings derived from the analyses indicate that exercise generally has a positive influence on students' cognitive functioning and overall mental well-being. Above all, exercise appears to enhance focus and efficiency while reducing stress, resulting in enhanced mental functionality.
 
-However, notable to highlight is that not all participants experience similar outcomes following physical activity, in particular to if it in fact leads to immediate productivity.
+However, notable to highlight is that not all participants experience similar outcomes following physical activity, in particular to its effects on short-term productivity.
 
 On one hand, exercises like swimming and JAMBOX signalise potential for increased productivity, however, these results were based on a single participant and should be interpreted with caution. On the other hand, Calisthenics and weightlifting demonstrate slightly lower average productivity scores, but were supported by a larger and more reliable sample size.
 
-Although no large differences were detected, exercise frequency shows a slightly favourable outcome in increased productivity for students who exercise daily, seven to nine hours per week. 
+Although no large differences were detected, exercise frequency showed a slightly favourable outcome in increased productivity for students who exercise daily, seven to nine hours per week. 
 
-Regarding what intensity level results in highest perceived immediate productivity, quantitative findings reveal a slight advantage for participants engaging in vigorous exercise. However, the qualitative analysis challenge these findings as some participants claims that exercising to exhaustion could have a negative effect on their cognitive functions and immediate productivity.
+Regarding which intensity level results in highest perceived immediate productivity, quantitative findings reveal a slight advantage for participants engaging in vigorous exercise. However, the qualitative analysis challenges these findings as some participants claimed that exercising to exhaustion could have a negative effect on their cognitive functioning and subsequent academic productivity.
 
-Although some respondents report an increased productivity following phsyical activity, findings show a fairly high differentiation within the population. Therefore, despite quantitative data revealing similarities and correlations between exercise and cognitive functions, no definitive conclusion can be drawn to whether exercise is conclusively a direct intervention for reaching higher levels of productivity.
+Although some respondents reported an increased productivity following physical activity, findings show a fairly high degree of variation within the population. Therefore, despite quantitative data revealing similarities, indicating correlations between exercise and cognitive functioning, no definitive conclusion can be drawn to whether exercise is conclusively a direct intervention for reaching higher levels of productivity.
 
 Instead, results highlight that some individuals may be more susceptible to exercise increasing their academic productivity than others. 
 Therefore, recommendations should not be uniform, but acknowledge individuals' differences to highlight possible initiatives while recognising that the effectiveness of such approaches may vary between individuals.
