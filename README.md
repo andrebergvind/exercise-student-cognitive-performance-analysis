@@ -89,6 +89,7 @@ The study hypothesised that exercise has an immediate positive effect on an indi
 
 ## Data Collection
 **Quantitative Data**
+
 The dataset was collected through a Google Forms survey targeting students aged 18 to 30. Respondents were presented with a series of statements regarding changes in cognitive and psychological states following exercise.
 
 Participants evaluated each statement using a 5-point Likert scale:
@@ -114,6 +115,7 @@ In addition, respondents reported their typical:
 - Exercise types
 
 **Qualitative Data**
+
 The qualitative component involved semi structured interviews with five selected participants and was used to provide additional depth to the measurable data. It sought to explore underlying causes, further developing on the reasoning and challenges behind trends and patterns.
 
 These interviews were conducted using Microsoft Teams and focused on identifying habits, routines, and behavioural factors that may influence cognitive functioning and perceived productivity.
