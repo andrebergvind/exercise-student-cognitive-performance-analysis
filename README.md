@@ -352,7 +352,7 @@ While the findings should not be interpreted as universally applicable, the patt
 
 ## Recommendations
 ### Students
-1. **Experiment to discover optimal approach:** Primarily, students who currently do not experience cognitive benefits following exercise should experiment with different exercise routines in order to identify the approach that best supports their academic productivity. These adjustments could include variations in exercise timing, intensity, frequency, duration, and type of physical activity.
+1. **Experiment to discover optimal approach:** Primarily, students who currently do not experience cognitive benefits following exercise should experiment with different exercise routines in order to identify the approach that best supports their academic productivity. These adjustments could include variations in exercise timing, intensity, frequency, duration, and type of physical activity. For example, it could be worth considering an exercise routine consisting of seven to nine hours of vigorous workout intensity.
 
 2. **Use exercise as a tool for preparation:** Exercise should be viewed not only as a tool for physical health but also as a potential strategy for managing stress, enhancing motivation, and improving focus during periods of academic demand. Students who experience immediate positive cognitive change following exercise may therefore stand to benefit from scheduling their exercise sessions in close proximity to examinations and academic assessments.
 
@@ -361,7 +361,7 @@ While the findings should not be interpreted as universally applicable, the patt
 ### Universities
 1. **Promote physical activity and increase awareness of potential benefits:** Universities should promote physical activity as part of a holistic approach to student well-being and academic success. By increasing awareness of the potential cognitive and psychological benefits associated with exercise, students may be encouraged to explore how physical activity can support their learning and academic performance. Such an approach could be leveraged through workshops and seminars.
 
-2. **Provide recreational sports facilities and initiatives:** Universities should consider establishing facilities and campus initiatives dedicated to exercise. By providing students with accessible opportunities to engage in physical activity, institutions may help support both student well-being and the cognitive and psychological factors associated with academic performance. 
+2. **Provide recreational sports facilities and initiatives:** Universities should consider establishing facilities and campus initiatives dedicated to exercise. Highly recommended would be to construct a proprietary gym, or provide access to one nearby campus, as weightlifting was identified as the most popular exercise conducted in the sample. By providing students with accessible opportunities to engage in physical activity, institutions may help support both student well-being and the cognitive and psychological factors associated with academic performance. 
 
 ### Future Research
 - Future studies conducted on the subject could benefit from a larger sample size and a longitudinal design, observing a greater number of participants over a longer period of time.
