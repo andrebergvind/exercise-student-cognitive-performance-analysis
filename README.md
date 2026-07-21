@@ -148,45 +148,54 @@ Finally, the study was complemented by a qualitative analysis, providing deeper 
 ### Descriptive Statistics
 
 **Focus**
+
 Participants reported relatively high levels of focus following exercise, indicating that exercise may contribute to immediate enhanced concentration and increased attention span. 
 The recorded mean of 3.95 and median of 4 suggest that a large portion of the population agrees with exercise resulting in enhanced focus. The standard deviation of 0.687 in this case, indicates that the population is moderately agreeing to the effect of its nature. 
 With responses ranging from 2 to 5, noticeable is that no respondent claimed to strongly disagree with exercise resulting in increased focus.
 
 **Motivation** 
+
 The motivation score presents slightly lower levels and a wider distribution of perceived positive immediate impact following exercise. 
 The mean was calculated at 3.64, and the median recorded 3.5, indicating that the most common perceptions were positive or neutral. 
 However, the standard deviation presents a fairly high number of 0.837, showcasing a noticeable lack of consistency within the population in regard to exercise boosting willingness to complete academic tasks.
 
 **Stress**
+
 The second highest mean of 4.27, and the strongest consensus of the population regarded an immediate stress reduction following exercise. 
 No respondent recorded that stress does in fact increase following exercise, but rather that it either remains neutral or decreases. 
 This result highlights stress reduction as one of the main variables most positively affected by exercise.
 
 **Energy**
+
 The energy score, entailing both physical and mental energy, was undeniably another factor positively affected following exercise. 
 The mean recorded a value of 4.17, similar to the median of 4, indicating that a large proportion of the population agrees with exercise boosting their energy levels. 
 The standard deviation on the other hand showcases a value of 0.719, suggesting some variation in the responses.
 
 **Mood**
+
 The highest mean of 4.42, and median of 4.5, was recorded for the mood score, indicating that exercise has the strongest positive effect on students' overall mood and well-being. 
 The standard deviation of 0.643 tells us that the data is fairly consistent, and the main part of the population perceive exercise as a method to improve their overall mood.
 
 **Productivity**
+
 The productivity score recorded a mean of 3.37, and a median of 3.5, making it one of the lowest average perceived factors following exercise. 
 Generally, the majority of the population seemed to be neutral about its outcome. 
 The standard deviation however, recorded 0.741, suggesting that the sample is divided regarding this matter, with the highest score recording 4.5 and the lowest 1.
 
 **Motives**
+
 With the lowest mean of 2.81, and median of 3, the motives score indicates that the majority did not agree with academic productivity being a reason for why they exercise. 
 The standard deviation, however, shows the highest variability of 0.996, suggesting that there is a firm disagreement within the population. 
 The large variation tells us that participants possess different motives for why they exercise, with some strongly agreeing, and others strongly disagreeing to whether their physical activities are conducted as a method to achieve higher academic productivity.
 
 **General Impact**
+
 The general impact score showcases the second most consistent values with a standard deviation recorded at 0.591. 
 The mean of 4.01 and median of 4, indicate that the majority of the sample generally perceive exercise as having a positive impact on their cognitive functioning, long term well-being, and overall academic achievements. 
 Yet, the minimum recorded value suggests that there are in fact participants that do not consider exercise to have a positive general impact on their academic capabilities.
 
 **Summary of Scores**
+
 Notably, as suggested by the descriptive statistics, participants generally believe that exercise has a significant positive effect on their overall mood, and leads to reduced levels of stress and increased energy.
 
 The scores related to motives for exercise being academic benefits, the motivation gained from it, and the short-term productivity it results in however, indicate a more divided sample.
