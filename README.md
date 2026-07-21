@@ -88,7 +88,7 @@ The study hypothesised that exercise has an immediate positive effect on an indi
 - Tableau
 
 ## Data Collection
-**Quantitative Data**
+### Quantitative Data
 
 The dataset was collected through a Google Forms survey targeting students aged 18 to 30. Respondents were presented with a series of statements regarding changes in cognitive and psychological states following exercise.
 
@@ -114,7 +114,7 @@ In addition, respondents reported their typical:
 - Exercise intensity
 - Exercise types
 
-**Qualitative Data**
+### Qualitative Data
 
 The qualitative component involved semi structured interviews with five selected participants and was used to provide additional depth to the measurable data. It sought to explore underlying causes, further developing on the reasoning and challenges behind trends and patterns.
 
