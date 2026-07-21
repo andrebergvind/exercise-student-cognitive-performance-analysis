@@ -352,13 +352,15 @@ While the findings should not be interpreted as universally applicable, the patt
 
 ## Recommendations
 ### Students
-**Experiment to discover optimal approach** 
+- **Experiment to discover optimal approach** 
 Primarily, students who currently do not experience cognitive benefits following exercise should experiment with different exercise routines in order to identify the approach that best supports their academic productivity. These adjustments could include variations in exercise timing, intensity, frequency, duration, and type of physical activity.
 
-**Use exercise as a tool for preparation** 
+- **Use exercise as a tool for preparation**
+  
 Exercise should be viewed not only as a tool for physical health but also as a potential strategy for managing stress, enhancing motivation, and improving focus during periods of academic demand. Students who experience immediate positive cognitive change following exercise may therefore stand to benefit from scheduling their exercise sessions in close proximity to examinations and academic assessments.
 
 **Know your limitations** 
+
 Students experiencing fatigue or reduced productivity following physical activity may benefit from adjusting the timing of their exercise sessions. If cognitive or psychological functions appear impaired immediately following exercise, scheduling workouts further away from periods of academic demand may help reduce potential negative effects on academic performance.
 
 ### Universities
