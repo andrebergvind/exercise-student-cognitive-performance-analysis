@@ -82,10 +82,10 @@ The study hypothesised that exercise has an immediate positive effect on an indi
 - Which exercise types are associated with increased productivity?
 
 ## Tools Used
-Google Forms
-Google Sheets
-Microsoft Teams
-Tableau
+- Google Forms
+- Google Sheets
+- Microsoft Teams
+- Tableau
 
 ## Data Collection
 **Quantitative Data**
