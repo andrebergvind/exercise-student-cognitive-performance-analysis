@@ -46,7 +46,7 @@ The process included:
 In addition, to easier facilititate the analysis, values recorded in statements concerning the same variables where combined.
 These steps ensured data quality and allowed for a fair and accurate analysis.
 
-### Descriptive Statistics
+## Descriptive Statistics
 
 ![Image](descriptive_statistics_exercise_and_academic_productivity_analysis.png)
 
