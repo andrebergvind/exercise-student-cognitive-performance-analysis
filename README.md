@@ -20,7 +20,7 @@ The study hypothesised that exercise has an immediate positive effect on an indi
 - Tableau
 
 ## Methodology
-The study adapted a mixed methods approach using quantitative and qualitative data.
+The study adopted a mixed methods approach using quantitative and qualitative data.
 
 The quantitative data was collected through a Google Forms survey targeting students aged 18 to 30. Respondents were presented with a series of statements regarding changes in cognitive and psychological states following exercise.
 
