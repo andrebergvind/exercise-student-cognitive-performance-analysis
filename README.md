@@ -4,6 +4,8 @@
 This research project explored the relationship between exercise, cognitive functioning, and short-term academic productivity among university students, using primary data.
 The sample examined in the study consisted of 51 university students aged 18 to 30.
 
+[Read the full analysis on Medium](https://medium.com/@andrebergvind/exercise-student-cognitive-performance-b89ebd7b36f5)
+
 ## Hypothesis
 The study hypothesised that exercise has an immediate positive effect on an individual's cognitive functioning and their ability to achieve increased academic productivity.
 
