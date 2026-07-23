@@ -74,19 +74,6 @@ Themes derived from the analysis were:
 - The effects of exercise on cognitive functioning and productivity appear beneficial but not universal, with some students reporting neutral or negative effects.
 - Factors such as exercise timing, workout quality, and individual preferences could explain the variability observed across the sample.
 
-## Conclusion
-The wide variation in perceptions detected in the descriptive statistics indicates a divided sample, with responses ranging from positive to negative cognitive changes following exercise. This highlights that the effects of exercise on short-term productivity is not uniform across the study population.
-
-Although a fairly large portion of the sample reported perceived improvements in immediate productivity following physical activity, the findings suggest that these outcomes may be influenced by a range of individual factors.
-
-Therefore, despite quantitative data revealing similarities, indicating correlations between exercise and cognitive functioning, no definitive conclusion can be drawn to whether exercise is conclusively a direct intervention for reaching higher levels of productivity for all students.
-
-Instead, findings highlight that some individuals may be more susceptible to the productivity related benefits of exercise than others. As such, recommendations should not be uniform, but acknowledge individuals' differences to highlight possible initiatives while recognising that the effectiveness of such approaches may vary.
-
-Overall, the findings suggest that exercise has the potential to positively influence students' cognitive functioning and perceived short-term productivity, particularly when it contributes to increased motivation, focus, and mental energy. However, as the benefits are not universal, they should not be assumed to occur equally across all individuals.
-
-Therefore, while physical activity may represent a valuable strategy for supporting academic performance for some, students may achieve the greatest benefits by identifying exercise routines that align with their own needs and cognitive responses.
-
 
 ## Recommendations
 ### Students
