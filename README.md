@@ -48,15 +48,15 @@ These steps ensured data quality and allowed for a fair and accurate analysis.
 
 ## Descriptive Statistics
 
-![Image](descriptive_statistics_exercise_and_academic_productivity_analysis.png)
+![Image](Dashboards/descriptive_statistics_exercise_and_academic_productivity_analysis.png)
 
 ## Tableau Dashboards
 
 ### Cognitive Effects 
-![Dashboard](dashboard_cognitive_effects.png)
+![Dashboard](Dashboards/dashboard_cognitive_effects.png)
 
 ### Exercise Behaviour
-![Dashboard](dashboard_exercise_productivity.png)
+![Dashboard](Dashboards/dashboard_exercise_productivity.png)
 
 
 ## Qualitative Findings
