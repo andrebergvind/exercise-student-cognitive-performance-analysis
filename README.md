@@ -50,7 +50,7 @@ These steps ensured data quality and allowed for a fair and accurate analysis.
 
 ![Image](descriptive_statistics_exercise_and_academic_productivity_analysis.png)
 
-## Dashboards
+## Tableau Dashboards
 
 ### Cognitive Effects 
 ![Dashboard](dashboard_cognitive_effects.png)
