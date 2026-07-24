@@ -6,19 +6,19 @@ The sample examined in the study consisted of 51 university students aged 18 to 
 
 [Read the full analysis on Medium](https://medium.com/@andrebergvind/exercise-student-cognitive-performance-b89ebd7b36f5)
 
-## ❓ Research Questions
+### ❓ Research Questions
 - How does exercise affect cognitive functioning?
 - Which cognitive and psychological functions experience the greatest change and are most strongly associated with increased productivity?
 - Does exercise frequency influence productivity?
 - Which exercise types are associated with increased productivity?
 
-## 🛠️ Tools Used
+### 🛠️ Tools Used
 - Google Forms
 - Google Sheets
 - Microsoft Teams
 - Tableau
 
-## 📖 Methodology
+### 📖 Methodology
 The study adopted a mixed methods approach using quantitative and qualitative data.
 
 The quantitative data was collected through a Google Forms survey targeting students aged 18 to 30. Respondents were presented with a series of statements regarding changes in cognitive and psychological states following exercise.
@@ -56,7 +56,7 @@ These steps ensured data quality and allowed for a fair and accurate analysis.
 ![Dashboard](Dashboards/dashboard_exercise_productivity.png)
 
 
-## 💬 Qualitative Findings
+### 💬 Qualitative Findings
 
 Themes derived from the analysis were:
 - Exercise is used as a tool for stress relief and mental recovery.
