@@ -1,27 +1,24 @@
-# Exercise & Student Cognitive Performance
+# 🧠 Exercise & Student Cognitive Performance
 
-## Project Overview
+## 📋 Project Overview
 This research project explored the relationship between exercise, cognitive functioning, and short-term academic productivity among university students, using primary data.
 The sample examined in the study consisted of 51 university students aged 18 to 30.
 
 [Read the full analysis on Medium](https://medium.com/@andrebergvind/exercise-student-cognitive-performance-b89ebd7b36f5)
 
-## Hypothesis
-The study hypothesised that exercise has an immediate positive effect on an individual's cognitive functioning and their ability to achieve increased academic productivity.
-
-## Research Questions
+## ❓ Research Questions
 - How does exercise affect cognitive functioning?
 - Which cognitive and psychological functions experience the greatest change and are most strongly associated with increased productivity?
 - Does exercise frequency influence productivity?
 - Which exercise types are associated with increased productivity?
 
-## Tools Used
+## 🛠️ Tools Used
 - Google Forms
 - Google Sheets
 - Microsoft Teams
 - Tableau
 
-## Methodology
+## 📖 Methodology
 The study adopted a mixed methods approach using quantitative and qualitative data.
 
 The quantitative data was collected through a Google Forms survey targeting students aged 18 to 30. Respondents were presented with a series of statements regarding changes in cognitive and psychological states following exercise.
@@ -34,7 +31,7 @@ Thereafter, followed an exploratory relationship analysis, using bar charts and 
 
 Finally, the study was complemented by a thematic analysis, providing deeper insight into the trends and relationships identified in the quantitative analysis.
 
-## Data Cleaning & Transformation
+## 🧹 Data Cleaning & Transformation
 Data cleaning and transformation were performed in Google Sheets before importing the dataset into Tableau.
 
 The process included:
@@ -46,11 +43,11 @@ The process included:
 In addition, to easier facilititate the analysis, values recorded in statements concerning the same variables where combined.
 These steps ensured data quality and allowed for a fair and accurate analysis.
 
-## Descriptive Statistics
+## 📈 Descriptive Statistics
 
 ![Image](Dashboards/descriptive_statistics_exercise_and_academic_productivity_analysis.png)
 
-## Tableau Dashboards
+## 📊 Dashboards
 
 ### Cognitive Effects 
 ![Dashboard](Dashboards/dashboard_cognitive_effects.png)
@@ -59,7 +56,7 @@ These steps ensured data quality and allowed for a fair and accurate analysis.
 ![Dashboard](Dashboards/dashboard_exercise_productivity.png)
 
 
-## Qualitative Findings
+## 💬 Qualitative Findings
 
 Themes derived from the analysis were:
 - Exercise is used as a tool for stress relief and mental recovery.
@@ -68,14 +65,14 @@ Themes derived from the analysis were:
 - The timing of exercise influences perceived cognitive and productivity-related benefits.
 
 
-## Key Insights
+## 💡 Key Insights
 - Exercise was consistently associated with improved mood, reduced stress, and increased energy across the majority of participants.
 - Enhanced motivation, increased energy levels, and lower stress demonstrate the strongest relationships with perceived immediate academic productivity.
 - The effects of exercise on cognitive functioning and productivity appear beneficial but not universal, with some students reporting neutral or negative effects.
 - Factors such as exercise timing, workout quality, and individual preferences could explain the variability observed across the sample.
 
 
-## Recommendations
+## ✅ Recommendations
 ### Students
 1. **Experiment to discover optimal approach:** Primarily, students who currently do not experience cognitive benefits following exercise should experiment with different exercise routines in order to identify the approach that best supports their academic productivity. These adjustments could include variations in exercise timing, intensity, frequency, duration, and type of physical activity. For example, it could be worth considering an exercise routine consisting of seven to nine hours of vigorous workout intensity.
 
@@ -88,7 +85,7 @@ Themes derived from the analysis were:
 
 2. **Provide recreational sports facilities and initiatives:** Universities should consider establishing facilities and campus initiatives dedicated to exercise. Highly recommended would be to construct a proprietary gym, or provide access to one nearby campus, as weightlifting was identified as the most popular exercise conducted in the sample. By providing students with accessible opportunities to engage in physical activity, institutions may help support both student well-being and the cognitive and psychological factors associated with academic performance. 
 
-### Future Research
+### 🔭 Future Research
 - Future studies conducted on the subject could benefit from a larger sample size and a longitudinal design, observing a greater number of participants over a longer period of time.
 - Studies incorporating objective measures of productivity and cognitive performance may provide a more comprehensive understanding of exercise's effects on academic outcomes.
 - Researchers should investigate the influence of exercise timing, workout quality, and individual preferences, as these factors emerged as important themes throughout the qualitative analysis.
